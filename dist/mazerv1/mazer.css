@@ -1,0 +1,35 @@
+
+@font-face {
+	font-family: 'Mazer Web';
+	font-display: swap;
+	font-weight: 550;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf/mazer-regular.ttf') format('truetype'), url('woff2/mazer-regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Mazer Web';
+	font-display: swap;
+	font-weight: 550;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf/mazer-oblique.ttf') format('truetype'), url('woff2/mazer-oblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Mazer Web Oblique';
+	font-display: swap;
+	font-weight: 550;
+	font-stretch: normal;
+	src: url('ttf/mazer-oblique.ttf') format('truetype'), url('woff2/mazer-oblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Mazer Web';
+	font-display: swap;
+	font-weight: 550;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf/mazer-italic.ttf') format('truetype'), url('woff2/mazer-italic.woff2') format('woff2');
+}
